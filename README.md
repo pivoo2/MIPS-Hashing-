@@ -2,7 +2,7 @@
 Project Overview
 This project implements an 8-bit hashing algorithm using MIPS assembly language. The algorithm leverages polynomial transformations and XOR operations to generate hash values efficiently. It is designed to operate within the MARS IDE, ensuring compliance with MIPS conventions and optimal memory usage.
 
-##Features
+## Features
 
 -Implements an 8-bit hashing algorithm.
 
